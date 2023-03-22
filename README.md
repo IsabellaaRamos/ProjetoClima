@@ -1,0 +1,3 @@
+# ProjetoClima
+O projeto consiste em uma página web simples criada usando as linguagens HTML e CSS. A página exibe o clima atual, o tempo e o dia da semana para uma localização específica.
+O layout é composto por uma imagem de fundo representando um céu com nuvens e uma seção principal no centro da página que exibe as informações sobre o clima e o tempo. Essa seção é dividida em duas colunas, uma com o ícone representando o clima atual e a outra com informações como a temperatura e a descrição do clima![Captura de tela de 2023-03-22 16-09-46](https://user-images.githubusercontent.com/67348583/227013618-ebe75bbf-30a7-45bb-8a86-e611d6ee50e2.png)
